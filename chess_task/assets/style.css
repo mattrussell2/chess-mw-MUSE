@@ -1,0 +1,95 @@
+/*  ****************************************************************************
+ * 
+ *
+ *  File name: style.css
+ *  Purpose: is the style for all the html elements
+ *  
+ * 
+ *  ****************************************************************************
+ */
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-weight: 20;
+    color: #ffffff;
+    line-height: 1.5;
+    background-image: url("https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phptMAXYf.png");
+    background-size: cover;
+}
+#welcome {
+    display: block;
+    font-size: 25px;
+    text-align: center;
+}
+
+#board {
+    width: 600px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#instructions {
+    font-family: Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    
+}
+
+#p_name {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    height: 30;
+    width: 275px;
+    background: #f2f2f2;
+    color: #333;
+    border: none;
+    border-bottom: 1px solid #999;
+    border-radius: 1px;
+    font-size: 15px;
+    outline: none;
+    transition: all 250ms ease-in;
+}
+
+#submit_name {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top:50%;
+    font-size: 18px;
+    padding: 8px 12px;
+    background-color:#ffffff;
+    color: rgb(0, 0, 0);
+    border:none;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+#submit_name:hover {
+    background-color: #6fb193;
+}
+
+#timer {
+
+    background-color: #419D78;
+    color: #EFD0CA;
+    font-size: 20px;
+    text-align: center;
+}
+
+#status {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid #ffffff; 
+    width: 400px; 
+    background: #161415; 
+    padding: 3px; 
+}
