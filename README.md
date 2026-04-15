@@ -65,4 +65,3 @@ And the tool used to extract neural data is
   note         = {Accessed: 2026-04-15}
 }
 ```
-```
