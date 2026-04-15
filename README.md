@@ -31,7 +31,7 @@ Note that rotation images in the `mw_tasks\assets` folder are reproduced from th
 }
 ```
 
-The chessboard logic in `chess_task` is from 
+The chessboard logic in `chess_task` and chess piece images are from 
 ```
 @misc{chessboardjs,
   author       = {Oakman, Chris},
