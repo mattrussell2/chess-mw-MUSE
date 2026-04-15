@@ -11,5 +11,14 @@ npm install .
 
 Rotation images reproduced from the following study:
 ```
-Ganis, Giorgio, and Rogier Kievit. "A new set of three-dimensional shapes for investigating mental rotation processes: validation data and stimulus set." Journal of Open Psychology Data Files in this Item Files Size Format View 13-116-2-PB. pdf 567.5 Kb PDF View/Open (2015).
+@article{ganis2015new,
+  author    = {Ganis, Giorgio and Kievit, Rogier},
+  title     = {A New Set of Three-Dimensional Shapes for Investigating Mental Rotation Processes: Validation Data and Stimulus Set},
+  journal   = {Journal of Open Psychology Data},
+  year      = {2015},
+  volume    = {3},
+  number    = {1},
+  pages     = {e3},
+  doi       = {10.5334/jopd.ai}
+}
 ```
