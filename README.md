@@ -30,3 +30,39 @@ Note that rotation images in the `mw_tasks\assets` folder are reproduced from th
   doi       = {10.5334/jopd.ai}
 }
 ```
+
+The chessboard logic in `chess_task` is from 
+```
+@misc{chessboardjs,
+  author       = {Dees, Chris},
+  title        = {chessboard.js},
+  howpublished = {\url{https://chessboardjs.com}},
+  year         = {2019},
+  note         = {Version 1.0.0}
+}
+```
+The javascript framework used in the creation of the tasks is:
+```
+@article{deleeuw2015jspsych,
+  author    = {de Leeuw, Joshua R.},
+  title     = {jsPsych: A {JavaScript} library for creating behavioral experiments in a {Web} browser},
+  journal   = {Behavior Research Methods},
+  year      = {2015},
+  volume    = {47},
+  number    = {1},
+  pages     = {1--12},
+  doi       = {10.3758/s13428-014-0458-y}
+}
+```
+
+And the tool used to extract neural data is 
+```
+@misc{musejs,
+  author       = {Urish, Uri},
+  title        = {muse-js: {Muse} {EEG} Headset {JavaScript} Library},
+  howpublished = {\url{https://github.com/urish/muse-js}},
+  year         = {2017},
+  note         = {Accessed: 2026-04-15}
+}
+```
+```
