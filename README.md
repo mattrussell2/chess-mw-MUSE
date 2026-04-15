@@ -34,24 +34,47 @@ Note that rotation images in the `mw_tasks\assets` folder are reproduced from th
 The chessboard logic in `chess_task` is from 
 ```
 @misc{chessboardjs,
-  author       = {Dees, Chris},
-  title        = {chessboard.js},
-  howpublished = {\url{https://chessboardjs.com}},
-  year         = {2019},
+  author       = {Oakman, Chris},
+  title        = {chessboard.js: A {JavaScript} chessboard},
+  howpublished = {\url{https://www.npmjs.com/package/chessboardjs}},
+  year         = {2023},
   note         = {Version 1.0.0}
 }
 ```
+
+The chess game implementation logic is from 
+```
+@misc{chessjs,
+  author       = {Schmich, Jeff},
+  title        = {chess.js: A {JavaScript} chess library},
+  howpublished = {\url{https://www.npmjs.com/package/chess.js}},
+  year         = {2023},
+  note         = {Version 1.0.0}
+}
+```
+
 The javascript framework used in the creation of the tasks is:
 ```
-@article{deleeuw2015jspsych,
-  author    = {de Leeuw, Joshua R.},
-  title     = {jsPsych: A {JavaScript} library for creating behavioral experiments in a {Web} browser},
-  journal   = {Behavior Research Methods},
-  year      = {2015},
-  volume    = {47},
-  number    = {1},
-  pages     = {1--12},
-  doi       = {10.3758/s13428-014-0458-y}
+@article{deleeuw2023jspsych,
+  author    = {de Leeuw, Joshua R. and Gilbert, Rebecca A. and Luchterhandt, Bj\"{o}rn},
+  title     = {{jsPsych}: Enabling an open-source collaborative ecosystem of behavioral experiments},
+  journal   = {Journal of Open Source Software},
+  year      = {2023},
+  volume    = {8},
+  number    = {85},
+  pages     = {5351},
+  doi       = {10.21105/joss.05351}
+}
+```
+
+The chess puzzle database is extracted from
+```
+@misc{lichess2024,
+  author       = {{Lichess Team}},
+  title        = {Lichess Database},
+  howpublished = {\url{https://database.lichess.org/}},
+  year         = {2023},
+  note         = {Accessed: January 2023}
 }
 ```
 
