@@ -1,3 +1,5 @@
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/3037b489-48b9-4c8b-a38f-4ece628fd8e3" />
+
 # chess-mw-MUSE
 ## A set of experimental tasks developed in JSPsych which leverage MuseJS for low-cost EEG data collection. 
 
